@@ -1,0 +1,100 @@
+
+**** Error file opened at 20180410 133721 Eastern European Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Tue Apr 10 13:37:21,477<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=pde ASHOST=172.16.5.17 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.16.5.17:3300' not reached
+TIME        Tue Apr 10 13:37:21 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 172.16.5.17:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180410 133910 Eastern European Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Tue Apr 10 13:39:10,788<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=pde ASHOST=172.16.5.17 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.16.5.17:3300' not reached
+TIME        Tue Apr 10 13:39:10 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 172.16.5.17:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180415 173608 Eastern European Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Sun Apr 15 17:36:08,266<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=pde ASHOST=172.16.5.17 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.16.5.17:3300' not reached
+TIME        Sun Apr 15 17:36:08 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 172.16.5.17:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
+
+**** Error file opened at 20180603 151104 Eastern European Time Rel. 3.0.16 (2016-12-06) [721.800]
+Error:  >Sun Jun 03 15:11:04,652<    RfcException:
+	message: Connect to SAP gateway failed
+Connection parameters: TYPE=A DEST=pde ASHOST=172.16.5.17 SYSNR=00 PCS=1
+
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '172.16.5.17:3300' not reached
+TIME        Sun Jun 03 15:11:04 2018
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 172.16.5.17:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+	return code: RFC_FAILURE (1)
+	error group: 102
+	key: RFC_ERROR_COMMUNICATION
+
